@@ -44,7 +44,7 @@ Get a glimpse of the projects I've been working on:
 
 | Project | Description |
 |---------|-------------|
-| [Ananke](https://github.com/Xqhare/ananke) | Ananke is a powerful and flexible todo-list app written in Rust, built for the todo.txt format. |
+| [![Readme Card](https://github-readme.stats.vercel.app/api?username=Xqhare&repo=ananke)] | Ananke is a powerful and flexible todo-list app written in Rust, built for the todo.txt format. |
 | [Janus](https://github.com/Xqhare/janus) | Janus is a command-line tool written in Rust for file manipulation and processing. |
 | [RandomizerProjekt](https://github.com/Xqhare/randomizerProjekt) | RandomizerProjekt is a Python script for generating random sequences like names or even currencies. |
 | [Seshat](https://github.com/Xqhare/seshat) | Seshat is a simple cli text editor, made with the guide found [here](https://www.flenker.blog/hecto-chapter-1/). |
@@ -53,7 +53,7 @@ Get a glimpse of the projects I've been working on:
 I found these, so of course I need to include them:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Xqhare)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xqhare)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xqhare&show_icons=true&theme=midnight-purple)
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Xqhare)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Xqhare)](https://github.com/Xqhare)
 
