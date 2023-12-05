@@ -42,12 +42,24 @@ Hello there, take a seat, as I'm sure your standing and will need it! I'm Xqhare
 ## 🌟 Featured Projects
 Get a glimpse of the projects I've been working on:
 
-| Project | Description |
-|---------|-------------|
-| [![Readme Card](https://github-readme.stats.vercel.app/api?username=Xqhare&repo=ananke)] | Ananke is a powerful and flexible todo-list app written in Rust, built for the todo.txt format. |
-| [Janus](https://github.com/Xqhare/janus) | Janus is a command-line tool written in Rust for file manipulation and processing. |
-| [RandomizerProjekt](https://github.com/Xqhare/randomizerProjekt) | RandomizerProjekt is a Python script for generating random sequences like names or even currencies. |
-| [Seshat](https://github.com/Xqhare/seshat) | Seshat is a simple cli text editor, made with the guide found [here](https://www.flenker.blog/hecto-chapter-1/). |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=ananke&show_onwer=true)](https://github.com/Xqhare/ananke)
+
+Ananke is a powerful and flexible todo-list app written in Rust, built for the todo.txt format.
+
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=janus&show_onwer=true)](https://github.com/Xqhare/janus)
+
+Janus is a command-line tool written in Rust for file manipulation and processing. 
+
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=RandomizerProjekt&show_onwer=true)](https://github.com/Xqhare/RandomizerProjekt)
+
+RandomizerProjekt is a Python script for generating random sequences like names or even currencies. 
+
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=seshat&show_onwer=true)](https://github.com/Xqhare/seshat)
+
+Seshat is a simple cli text editor, made with the guide found [here](https://www.flenker.blog/hecto-chapter-1/). 
 
 ## ⭐ GitHub Stats
 I found these, so of course I need to include them:
