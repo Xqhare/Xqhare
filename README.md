@@ -80,8 +80,9 @@ My future goals include:
 
 "What would change if you could only ever create a class once?"
 -
-"Nothing for most object oriented programmers!"
 
+"Nothing for most object oriented programmers!"
+-
 ---
 
 This many peolple have had the misfortune of visiting this page:
