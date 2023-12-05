@@ -1,5 +1,5 @@
 # Xqhare
-Hello there, take a seat, I'm sure your standing and you will need it! I'm Xqhare, a self-taught programmer with a passion for systems programming and automation. My journey started with some classical education in JavaScript and MySQL in school, after which I transitioned to using Python for my projects. Now I have switched to rust and can't stop, it's just too BLAZINGLY FAST! Alongside my programming journey, I have also switched to using Linux as my main operating system, and I have become familiar in bash.
+Hello there, take a seat, I'm sure your standing and you will need it! I'm Xqhare, a self-taught programmer with a passion for systems programming and automation. My journey started with some classical education in JavaScript and MySQL in school, after which I transitioned to using Python for my projects. Now I have hopped onto the rust train and can't get off, it's just too BLAZINGLY FAST! Alongside my programming journey, I have also switched to using Linux as my main operating system, and I have become familiar in bash.
 
 ## 🚀 About Me
 - 👨‍💻 I'm self-taught in Rust and Python, with some classical education in JavaScript and MySQL.
