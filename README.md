@@ -42,32 +42,32 @@ Hello there, take a seat, as I'm sure your standing and will need it! I'm Xqhare
 ## 🌟 Featured Projects
 Get a glimpse of the projects I've been working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=ananke&show_onwer=true)](https://github.com/Xqhare/ananke)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=ananke&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/ananke)
 
 Ananke is a powerful and flexible todo-list app written in Rust, built for the todo.txt format.
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=janus&show_onwer=true)](https://github.com/Xqhare/janus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=janus&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/janus)
 
 Janus is a command-line tool written in Rust for file manipulation and processing. 
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=RandomizerProjekt&show_onwer=true)](https://github.com/Xqhare/RandomizerProjekt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=RandomizerProjekt&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/RandomizerProjekt)
 
 RandomizerProjekt is a Python script for generating random sequences like names or even currencies. 
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=seshat&show_onwer=true)](https://github.com/Xqhare/seshat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=seshat&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/seshat)
 
 Seshat is a simple cli text editor, made with the guide found [here](https://www.flenker.blog/hecto-chapter-1/). 
 
 ## ⭐ GitHub Stats
 I found these, so of course I need to include them:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Xqhare)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Xqhare&theme=midnight-purple)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xqhare&show_icons=true&theme=midnight-purple)
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Xqhare)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Xqhare)](https://github.com/Xqhare)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Xqhare&theme=midnight-purple)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Xqhare&theme=midnight-purple)](https://github.com/Xqhare)
 
 ## 🎯 Future Goals
 My future goals include:
