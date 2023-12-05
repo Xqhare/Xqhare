@@ -60,7 +60,7 @@ RandomizerProjekt is a Python script for generating random sequences like names 
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=seshat&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/seshat)
 
-Seshat is a simple cli text editor, made with the guide found [here](https://www.flenker.blog/hecto-chapter-1/). 
+Seshat is a simple cli text editor, made by following the guide found [here](https://www.flenker.blog/hecto-chapter-1/). 
 
 ## ⭐ GitHub Stats
 I found these, so of course I need to include them:
