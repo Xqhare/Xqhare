@@ -53,6 +53,12 @@ Ananke is a powerful and flexible todo-list app written in Rust, built for the t
 Janus is a command-line tool written in Rust for file manipulation and processing. 
 
 ---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=neith&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/neith)
+
+Neith is a small Database, capable of running in ram-only mode, or by reading and saving to the filesystem. It implements its own "version" of sql, Neith Query Language, or nql for short.
+
+---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=RandomizerProjekt&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/RandomizerProjekt)
 
 RandomizerProjekt is a Python script for generating random sequences like names or even currencies. 
