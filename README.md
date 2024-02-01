@@ -9,6 +9,10 @@ gained some familiarity with bash. During the transition to linux I have also pi
 - 🌱 I'm constantly learning and growing.
 - ✨ I'm creating bugs since first programming an autominer, using Lua, in a Minecraft mod called "ComputerCraft" sometime in the early 2010's.
 
+## 💌 The quote I live by
+"You copied that function without understanding why it does what it does, and as a result your code IS GARBAGE. AGAIN."
+~ Linus Torvalds
+
 ## 💻 Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
