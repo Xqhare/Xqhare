@@ -1,12 +1,11 @@
 # Xqhare
-Hello there, I'm sure your standing, take a seat, you'll need it! I'm Xqhare, a self-taught programmer with a passion for systems programming and everything that breakes! My journey started with some classical education in JavaScript and MySQL in school, after which I transitioned to using Python for my projects. Now I have hopped onto the rust train and can't get off, it's just too BLAZINGLY FAST! Alongside my programming journey, I have also switched to using Linux as my main operating system, and 
-gained some familiarity with bash. During the transition to linux I have also picked up neovim as my IDE.
+Hello there, I am Xqhare, a self-taught programmer with a passion for systems programming and everything I can break! My journey started with some classical education in JavaScript and MySQL in school, after which I transitioned to using Python for my projects. Now I have hopped onto the rust train and can't get off, it's just too BLAZINGLY FAST! Alongside my programming journey, I have also switched to using Linux as my main operating system, and 
+gained some familiarity with bash. During the transition to linux I have also picked up neovim as my IDE with which I hope to gain favor with the neck-beard council and learn the most difficult incantations that makes the black magic inside machines work.
 
 ## 🚀 About Me
 - 👨‍💻 I'm self-taught in Rust and Python, with some classical education in JavaScript and MySQL.
-- 💡 I'm a self-taught programmer, always eager to learn and explore new technologies.
-- 🔭 Currently, I'm working on enhancing my skills in systems programming and automation.
-- 🌱 I'm constantly learning and growing.
+- 💡 I'm a self-taught programmer, always eager to learn.
+- 🔭 Currently, I'm working on solving problems only I have and make for myself.
 - ✨ I'm creating bugs since first programming an autominer, using Lua, in a Minecraft mod called "ComputerCraft" sometime in the early 2010's.
 
 ## 💌 The quote I code by
@@ -65,12 +64,12 @@ Neith is a small Database, capable of running in ram-only mode, or by reading an
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=RandomizerProjekt&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/RandomizerProjekt)
 
-RandomizerProjekt is a Python script for generating random sequences like names or even currencies. 
+RandomizerProjekt is a Python program for generating random sequences like names or even currencies. It was also my very first real project.
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=seshat&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/seshat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=tyche&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/tyche)
 
-Seshat is a simple cli text editor, made by following the guide found [here](https://www.flenker.blog/hecto-chapter-1/). 
+Tyche is a library to generate cryptological secure psudo-random numbers on UNIX-like systems.
 
 ## ⭐ GitHub Stats
 I found these, so of course I need to include them:
