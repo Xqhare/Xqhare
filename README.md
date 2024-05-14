@@ -46,14 +46,11 @@ gained some familiarity with bash. During the transition to linux I have also pi
 ## 🌟 Featured Projects
 Get a glimpse of the projects I've been working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=ananke&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/ananke)
-
-Ananke is a powerful and flexible todo-list app written in Rust, built for the todo.txt format.
-
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=janus&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/janus)
 
-Janus is a command-line tool written in Rust for file manipulation and processing. 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=tyche&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/tyche)
+
+Tyche is a library to generate cryptological secure psudo-random numbers on UNIX-like systems.
 
 ---
 
@@ -62,14 +59,24 @@ Janus is a command-line tool written in Rust for file manipulation and processin
 Neith is a small Database, capable of running in ram-only mode, or by reading and saving to the filesystem. It implements its own "version" of sql, Neith Query Language, or nql for short.
 
 ---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=ananke&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/ananke)
+
+Ananke is a powerful and flexible todo-list app written in Rust, built for the todo.txt format.
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=janus&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/janus)
+
+Janus is a command-line tool written in Rust for file manipulation and processing. 
+
+---
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=RandomizerProjekt&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/RandomizerProjekt)
 
 RandomizerProjekt is a Python program for generating random sequences like names or even currencies. It was also my very first real project.
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=tyche&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/tyche)
-
-Tyche is a library to generate cryptological secure psudo-random numbers on UNIX-like systems.
 
 ## ⭐ GitHub Stats
 I found these, so of course I need to include them:
