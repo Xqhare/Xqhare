@@ -90,7 +90,7 @@ I found these, so of course I need to include them:
 My future goals include:
 
 - Continuing to build projects and experiment.
-- Learning new technologies and expanding my skill set.
+- Expanding my code base with more libraries, so that I don't need to use any external dependencies. At some point.
 
 ## 🌈 Fun Fact
 
