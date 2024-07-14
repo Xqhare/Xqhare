@@ -66,9 +66,9 @@ Ananke is a powerful and flexible todo-list app written in Rust, built for the t
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=janus&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/mawu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=mawu&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/mawu)
 
-Janus is a JSON and CSV serialization and deserialization library written in rust.
+Mawu is a JSON and CSV serialization and deserialization library written in rust.
 
 ---
 
