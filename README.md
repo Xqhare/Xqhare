@@ -1,5 +1,13 @@
 # Xqhare
-Hello there, I am Xqhare, a self-taught programmer with a passion for systems programming and everything I can break! My journey started in Minecraft with the mod "ComputerCraft" where I programmed an autominer. After some tinkering I still remember te excitement when I finally got it to move, only to realize I had put in two variables the wrong way around and the autominer started digging straight down instead of forwards. After this I enrolled in the media course in my highschool and continued with some classical education in JavaScript and MySQL during A-levels. I spend a few semesters studying IT-Security where I had first expirence with using Linux and writing bash. After dropping out I transitioned to using Python and started the randomiserProject you can find on my profile. After delving deeper and deeper into the arcane knowledge that is computer science, I now have hopped onto the rust train and can't get off, it's just too BLAZINGLY FAST! Alongside my programming journey, I have also switched to using Linux as my main operating system. During that transition I have also picked up neovim as my IDE with which I hope to gain favor with the neck-beard council and learn the most difficult incantations to best serve the Machine God.
+Hello there, I am Xqhare, a self-taught programmer with a passion for systems programming and everything I can break! 
+
+My journey started in Minecraft with the mod "ComputerCraft" where I programmed an autominer. After some tinkering I still remember te excitement when I finally got it to move, only to realize I had put in two variables the wrong way around and the autominer started digging straight down instead of forwards. 
+
+After this I enrolled in the media course in my highschool and continued with some classical education in JavaScript and MySQL during A-levels. I spend a few semesters studying IT-Security where I had first expirence with using Linux and writing bash. After dropping out I transitioned to using Python and started the randomiserProject you can find on my profile. 
+
+After delving deeper and deeper into the arcane knowledge that is computer science, I now have hopped onto the rust train and can't get off, it's just too BLAZINGLY FAST! 
+
+Alongside my programming journey, I have also switched to using Linux as my main operating system. During that transition I have also picked up neovim as my IDE with which I hope to gain favor with the neck-beard council and learn the most difficult incantations to best serve the Machine God.
 
 ## 🚀 About Me
 - 👨‍💻 I'm self-taught in Rust and Python, with some classical education in JavaScript and MySQL.
