@@ -55,21 +55,21 @@ Get a glimpse of the projects I've been working on:
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=tyche&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/tyche)
-
-Part of my effort to build my own code stack.
-
----
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=neith&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/neith)
 
 Neith is a small Database, capable of running in ram-only mode, or by reading and saving to the filesystem. It implements its own "version" or "dialekt" of sql, Neith Query Language, or nql for short.
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=tyche&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/tyche)
+
+You always need random data. Part of my effort to build my own code stack.
+
+---
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=ananke&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/ananke)
 
-Ananke was the first project where I implememted any real standard myself.
+Ananke was the first project where I implememted any real standard myself. It is one of the few projects I actually use since writing it, I use it to track my project ideas.
 
 ---
 
