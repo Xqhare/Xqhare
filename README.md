@@ -12,7 +12,7 @@ Alongside my programming journey, I have also switched to using Linux as my main
 ## 🚀 About Me
 - 👨‍💻 I'm self-taught in Rust and Python, with some classical education in JavaScript and MySQL.
 - 💡 I'm a self-taught programmer, always eager to learn.
-- 🔭 Currently, I'm working on solving problems only I have and make for myself.
+- 🔭 Currently, I'm solving problems only I have and make for myself.
 - ✨ I'm creating bugs since first programming an autominer, using Lua, in a Minecraft mod called "ComputerCraft" sometime in the early 2010's.
 
 ## 💌 The quote I code by
