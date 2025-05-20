@@ -87,8 +87,6 @@ RandomizerProjekt is a Python program for generating random sequences like names
 
 ## ⭐ GitHub Stats
 I found these, so of course I need to include them:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Xqhare&theme=midnight-purple)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xqhare&show_icons=true&theme=midnight-purple)
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Xqhare&theme=midnight-purple)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Xqhare&theme=midnight-purple)](https://github.com/Xqhare)
