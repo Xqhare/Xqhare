@@ -55,42 +55,40 @@ Get a glimpse of the projects I've been working on:
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=nabu&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/nabu)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xqhare&repo=nabu&theme=radical)
  
 Nabu us a rust library to interact with .xff files. .xff files are my own specification of a json like binary data structure capable of storing arbitrary data.
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=tyche&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/tyche)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xqhare&repo=tyche&theme=radical)
 
 You always need random data. Part of my effort to build my own code stack.
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=ananke&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/ananke)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xqhare&repo=athena&theme=radical)
 
-Ananke was the first project where I implememted any real standard myself. It is one of the few projects I actually use since writing it, I use it to track my project ideas.
-
----
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=mawu&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/mawu)
-
-I wrote mawu after learning about what lexers are and how they work, and I wanted to apply that knowledge. It's also part of my effort to produce my own code stack.
+Athena is a collection of small, but useful code like compression and checksums. It is also home to my most used piece of code, `XffValue`.
 
 ---
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xqhare&repo=urd&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xqhare&repo=RandomizerProjekt&show_onwer=true&theme=midnight-purple)](https://github.com/Xqhare/RandomizerProjekt)
+Urd is my first fully finished GUI Application.
 
-RandomizerProjekt is a Python program for generating random sequences like names or even currencies. It was also my very first real project.
+---
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xqhare&repo=horae&theme=radical)
+
+Everybody always talks about how hard Time & Date is. I had to find out myself, and yes, they are right.
 
 ---
 
 ## ⭐ GitHub Stats
 I found these, so of course I need to include them:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xqhare&show_icons=true&theme=midnight-purple)
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Xqhare&theme=midnight-purple)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Xqhare&theme=midnight-purple)](https://github.com/Xqhare)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Xqhare&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Xqhare&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xqhare&layout=compact&theme=radical)
 
 ## 🎯 Future Goals
 My future goals include:
