@@ -107,4 +107,4 @@ My future goals include:
 
 This many peolple have had the misfortune of visiting this page:
 
-[![Visitor Count](https://profile-counter.glitch.me/Xqhare/count.svg)](#)
+![](https://api.visitorbadge.io/api/VisitorHit?user=Xqhare&repo=github-visitors-badge&countColor=%237B1E7A)
