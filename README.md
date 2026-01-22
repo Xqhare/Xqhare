@@ -96,12 +96,11 @@ My future goals include:
 - Continuing to build projects and experiment.
 - Expanding my code base with more libraries, so that I don't need to use any external dependencies. At some point.
 
-## 🌈 Fun Fact
+## 🌈 Fun Facts by me!
 
-"What would change if you could only ever create an object once?"
+"What would change if you could only ever create an object once?" - "Nothing for most object oriented programmers!"
 
-
-"Nothing for most object oriented programmers!"
+`libc` is one of the few pieces of software, that is neither a dependency, nor part of the environment, but also both at the same time.
 
 ---
 
