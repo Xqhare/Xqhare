@@ -14,10 +14,10 @@ Alongside my programming journey, I have also switched to using Linux as my main
 Most of my projects are written with the goal in mind, to create a fully functional ecosystem of libraries and tools that I can use to build other projects.
 I do this not because "I can write something better", but because, as I do this as a hobby, I want to learn things I don't know.
 
-Because of this I operate under the `no external dependencies` rule, which means I generally can't use any libraries that are not written by me.
+Because of this I operate under the `no external dependencies` rule, which means I restrict myself from useing any libraries that are not written by me.
 I allow myself full use of rusts standard library - I personally count the [`futures crate`](https://crates.io/crates/futures) crate as part of this.
 
-The one exception is the `libc` crate, which I use to access the C standard library.
+The one exception is the `libc` crate, which I use to write FFI.
 
 ### External dependencies still in use (until I can get rid of them)
 
