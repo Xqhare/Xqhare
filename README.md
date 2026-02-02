@@ -1,13 +1,29 @@
 # Xqhare
-Hello there, I am Xqhare, a self-taught programmer with a passion for systems programming and everything I can break! 
+Hello there, I am Xqhare, a self-taught programmer with a passion for systems programming and everything I can break!
 
-My journey started in Minecraft with the mod "ComputerCraft" where I programmed an autominer. After some tinkering I still remember the excitement when I finally got it to move, only to realize I had put in two variables the wrong way around and the autominer started digging straight down instead of forwards. 
+My journey started in Minecraft with the mod "ComputerCraft" where I programmed an autominer. After some tinkering I still remember the excitement when I finally got it to move, only to realize I had put in two variables the wrong way around and the autominer started digging straight down instead of forwards.
 
-After this I enrolled in the media course in my highschool and continued with some classical education in JavaScript and MySQL during A-levels. I spend a few semesters studying IT-Security where I had first expirence with using Linux and writing bash. After dropping out I transitioned to using Python and started the randomiserProject you can find in my repos. 
+After this I enrolled in the media course in my high-school and continued with some classical education in JavaScript and MySQL during A-levels. I spend a few semesters studying IT-Security where I had first experience with using Linux and writing bash. After dropping out I transitioned to using Python and started the randomiserProject you can find in my repos.
 
-Delving deeper and deeper into the arcane knowledge that is computer science, I now have hopped onto the rust train and can't get off, it's just too BLAZINGLY FAST! 
+Delving deeper and deeper into the arcane knowledge that is computer science, I now have hopped onto the rust train and can't get off, it's just too BLAZINGLY FAST!
 
-Alongside my programming journey, I have also switched to using Linux as my main operating system. During that transition I have also picked up neovim as my IDE with which I hope to gain favor with the neck-beard council and learn the most difficult incantations to best serve the Machine God.
+Alongside my programming journey, I have also switched to using Linux as my main operating system. During that transition I have also picked up neovim as my code editor.
+
+## My projects
+
+Most of my projects are written with the goal in mind, to create a fully functional ecosystem of libraries and tools that I can use to build other projects.
+I do this not because "I can write something better", but because, as I do this as a hobby, I want to learn things I don't know.
+
+Because of this I operate under the `no external dependencies` rule, which means I generally can't use any libraries that are not written by me.
+I allow myself full use of rusts standard library - I personally count the [`futures crate`](https://crates.io/crates/futures) crate as part of this.
+
+The one exception is the `libc` crate, which I use to access the C standard library.
+
+### External dependencies still in use (until I can get rid of them)
+
+- [signal-hook](https://crates.io/crates/signal-hook) for signal handling
+- [unicode-segmentation](https://crates.io/crates/unicode-segmentation) for string splitting
+- [egui](https://crates.io/crates/egui) for GUI - TUI is already in the works and in an almost usable-ish state [here](https://github.com/xqhare/talos)
 
 ## 🚀 About Me
 - 👨‍💻 I'm self-taught in Rust and Python, with some classical education in JavaScript and MySQL.
