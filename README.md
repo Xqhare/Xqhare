@@ -9,33 +9,47 @@ Delving deeper and deeper into the arcane knowledge that is computer science, I 
 
 Alongside my programming journey, I have also switched to using Linux as my main operating system. During that transition I have also picked up neovim as my code editor.
 
-## My projects
+As I learned more about rust, I came across the advice to write some libraries, like a json parser, to better understand how things work.
+From then on, an idea formed in my mind: Why not write it all myself? No better way to learn how things work than doing that!
 
-Most of my projects are written with the goal in mind, to create a fully functional ecosystem of libraries and tools that I can use to build other projects.
-I do this not because "I can write something better", but because, as I do this as a hobby, I want to learn things I don't know.
+This idea has morphed over to years into the goal: to create a fully functional ecosystem of libraries and tools that I can use to build all my other projects.
 
-Because of this I operate under the `no external dependencies` rule, which means I restrict myself from useing any libraries that are not written by me.
-I allow myself full use of rusts standard library - I personally count the [`futures crate`](https://crates.io/crates/futures) crate as part of this.
+I know I will not write something better - that is not the point. I do this as a hobby, I want to learn things I don't know.
 
-The one exception is the `libc` crate, which I use to write FFI.
+Because of this I operate under the `no external dependencies` rule, which means I restrict myself from using any libraries that are not written by me.
+I allow myself full use of rusts standard library - I personally count the [`futures`](https://crates.io/crates/futures) and [`libc`](crates.io/crates/libc) crates as part of the standard library; Fight me.
 
 ### External dependencies still in use (until I can get rid of them)
 
 - [signal-hook](https://crates.io/crates/signal-hook) for signal handling
 - [unicode-segmentation](https://crates.io/crates/unicode-segmentation) for string splitting
-- [egui](https://crates.io/crates/egui) for GUI - TUI is already in the works and in an almost usable-ish state [here](https://github.com/xqhare/talos)
+- [egui](https://crates.io/crates/egui) for GUI
 
-## 🚀 About Me
-- 👨‍💻 I'm self-taught in Rust and Python, with some classical education in JavaScript and MySQL.
-- 💡 I'm a self-taught programmer, always eager to learn.
-- 🔭 Currently, I'm solving problems only I have and make for myself.
-- ✨ I'm creating bugs since first programming an autominer, using Lua, in a Minecraft mod called "ComputerCraft" sometime in the early 2010's.
+### Already implemented libraries
+
+- [Neith](https://github.com/xqhare/neith) - A database (Old project, not in use and in need of a major rewrite to be useful)
+- [Nabu](https://github.com/xqhare/nabu) - Library for reading and writing `.xff` files (My own binary-file specification)
+- [Mawu](https://github.com/xqhare/mawu) - A library for reading and writing `.json` and `.csv` files
+- [Horae](https://github.com/xqhare/horae) - A basic time and date library
+- [Hermes](https://github.com/xqhare/hermes) - A custom (and quite stupid) IPC Library
+- [Fortuna](https://github.com/xqhare/fortuna) - A custom PRNG (pseudo random number generator)
+- [Tyche](https://github.com/xqhare/tyche) - A custom CSPRING (cryptographically secure pseudo random number generator)
+- [Talos](https://github.com/xqhare/talos) - A custom TUI library
+- [Athena](https://github.com/xqhare/athena) - A collection of small, but useful code like compression and checksums, aswell as home to the all important `XffValue`
+- [Areia](https://github.com/xqhare/areia) - A library like the [Directories](https://crates.io/crates/directories) crate, with the additional support of hiding files
+
+## About Me
+- I'm self-taught in Rust and Python, with some classical education in JavaScript and MySQL.
+- I'm a self-taught programmer, always eager to learn.
+- Currently, I'm solving problems only I have and make for myself.
+- I'm creating bugs since first programming an auto-miner, using Lua, in a Minecraft mod called "ComputerCraft" sometime in the early 2010's.
+- I have a small, one server, home-lab to learn a bit of everything.
 
 ## 💌 The quote I code by
 "You copied that function without understanding why it does what it does, and as a result your code IS GARBAGE. AGAIN."
 ~ Linus Torvalds
 
-## 💻 Skills
+## Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
   <img width="12" />
@@ -66,7 +80,7 @@ The one exception is the `libc` crate, which I use to write FFI.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
 </div>
 
-## 🌟 Featured Projects
+## Featured Projects
 Get a glimpse of the projects I've been working on:
 
 ---
@@ -99,14 +113,14 @@ Everybody always talks about how hard Time & Date is. I had to find out myself, 
 
 ---
 
-## ⭐ GitHub Stats
+## GitHub Stats
 I found these, so of course I need to include them:
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Xqhare&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Xqhare&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xqhare&layout=compact&theme=radical)
 
-## 🎯 Future Goals
+## Future Goals
 My future goals include:
 
 - Continuing to build projects and experiment.
