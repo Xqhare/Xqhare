@@ -33,7 +33,7 @@ I allow myself full use of rusts standard library - I personally count the [`fut
 - [Horae](https://github.com/xqhare/horae) - A basic time and date library
 - [Hermes](https://github.com/xqhare/hermes) - A custom (and quite stupid) IPC Library
 - [Fortuna](https://github.com/xqhare/fortuna) - A custom PRNG (pseudo random number generator)
-- [Tyche](https://github.com/xqhare/tyche) - A custom CSPRING (cryptographically secure pseudo random number generator)
+- [Tyche](https://github.com/xqhare/tyche) - A custom CSPRNG (cryptographically secure pseudo random number generator)
 - [Talos](https://github.com/xqhare/talos) - A custom TUI library
 - [Athena](https://github.com/xqhare/athena) - A collection of small, but useful code like compression and checksums, aswell as home to the all important `XffValue`
 - [Areia](https://github.com/xqhare/areia) - A library like the [Directories](https://crates.io/crates/directories) crate, with the additional support of hiding files
