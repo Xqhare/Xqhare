@@ -118,7 +118,7 @@ I found these, so of course I need to include them:
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Xqhare&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Xqhare&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xqhare&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xqhare&theme=radical&langs_count=20)
 
 ## Future Goals
 My future goals include:
