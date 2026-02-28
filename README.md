@@ -17,7 +17,7 @@ This idea has morphed over to years into the goal: to create a fully functional 
 I know I will not write something better - that is not the point. I do this as a hobby, I want to learn things I don't know.
 
 Because of this I operate under the `no external dependencies` rule, which means I restrict myself from using any libraries that are not written by me.
-I allow myself full use of rusts standard library - I personally count the [`futures`](https://crates.io/crates/futures) and [`libc`](crates.io/crates/libc) crates as part of the standard library; Fight me.
+I allow myself full use of rusts standard library - I personally count the [`futures`](https://crates.io/crates/futures) and [`libc`](https://crates.io/crates/libc) crates as part of the standard library; Fight me.
 
 ### External dependencies still in use (until I can get rid of them)
 
