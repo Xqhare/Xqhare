@@ -9,7 +9,7 @@ Delving deeper and deeper into the arcane knowledge that is computer science, I 
 
 Alongside my programming journey, I have also switched to using Linux as my main operating system. During that transition I have also picked up neovim as my code editor.
 
-As I learned more about rust, I came across the advice to write some libraries, like a json parser, to better understand how things work.
+As I learned more about rust, I came across the advice to write some libraries, like a JSON parser, to better understand how things work.
 From then on, an idea formed in my mind: Why not write it all myself? No better way to learn how things work than doing that!
 
 This idea has morphed over to years into the goal: to create a fully functional ecosystem of libraries and tools that I can use to build all my other projects.
@@ -35,14 +35,14 @@ I allow myself full use of rusts standard library - I personally count the [`fut
 - [Fortuna](https://github.com/xqhare/fortuna) - A custom PRNG (pseudo random number generator)
 - [Tyche](https://github.com/xqhare/tyche) - A custom CSPRNG (cryptographically secure pseudo random number generator)
 - [Talos](https://github.com/xqhare/talos) - A custom TUI library
-- [Athena](https://github.com/xqhare/athena) - A collection of small, but useful code like compression and checksums, aswell as home to the all important `XffValue`
+- [Athena](https://github.com/xqhare/athena) - A collection of small, but useful code like compression and checksums, as well as home to the all important `XffValue`
 - [Areia](https://github.com/xqhare/areia) - A library like the [Directories](https://crates.io/crates/directories) crate, with the additional support of hiding files
 
-## About Me
+## About me
 - I'm self-taught in Rust and Python, with some classical education in JavaScript and MySQL.
 - I'm a self-taught programmer, always eager to learn.
 - Currently, I'm solving problems only I have and make for myself.
-- I'm creating bugs since first programming an auto-miner, using Lua, in a Minecraft mod called "ComputerCraft" sometime in the early 2010's.
+- I'm creating bugs since first programming an auto-miner, using Lua, in a Minecraft mod called `ComputerCraft` sometime in the early 2010s.
 - I have a small, one server, home-lab to learn a bit of everything.
 
 ## 💌 The quote I code by
@@ -87,7 +87,7 @@ Get a glimpse of the projects I've been working on:
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xqhare&repo=nabu&theme=radical)
  
-Nabu us a rust library to interact with .xff files. .xff files are my own specification of a json like binary data structure capable of storing arbitrary data.
+Nabu us a rust library to interact with .XFF files. .XFF files are my own specification of a JSON like binary data structure capable of storing arbitrary data.
 
 ---
 
@@ -118,7 +118,7 @@ I found these, so of course I need to include them:
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Xqhare&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Xqhare&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xqhare&theme=radical&langs_count=20)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xqhare&theme=radical&langs_count=10)
 
 ## Future Goals
 My future goals include:
@@ -128,12 +128,12 @@ My future goals include:
 
 ## 🌈 Fun Facts by me!
 
-"What would change if you could only ever create an object once?" - "Nothing for most object oriented programmers!"
+"What would change if you could only ever create an object once?" - "Nothing for most object-oriented programmers!"
 
-`libc` is one of the few pieces of software, that is neither a dependency, nor part of the environment, but also both at the same time.
+`libc` is one of the few pieces of software, that is neither a dependency nor part of the environment, but also both at the same time.
 
 ---
 
-This many peolple have had the misfortune of visiting this page:
+This many people have had the misfortune of visiting this page:
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Xqhare&repo=github-visitors-badge&countColor=%237B1E7A)
