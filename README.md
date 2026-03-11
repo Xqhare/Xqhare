@@ -21,22 +21,22 @@ I allow myself full use of rusts standard library - I personally count the [`fut
 
 ### External dependencies still in use (until I can get rid of them)
 
-- [signal-hook](https://crates.io/crates/signal-hook) for signal handling
 - [unicode-segmentation](https://crates.io/crates/unicode-segmentation) for string splitting
 - [egui](https://crates.io/crates/egui) for GUI
 
 ### Already implemented libraries
 
-- [Neith](https://github.com/xqhare/neith) - A database (Old project, not in use and in need of a major rewrite to be useful)
-- [Nabu](https://github.com/xqhare/nabu) - Library for reading and writing `.xff` files (My own binary-file specification)
-- [Mawu](https://github.com/xqhare/mawu) - A library for reading and writing `.json` and `.csv` files
-- [Horae](https://github.com/xqhare/horae) - A basic time and date library
-- [Hermes](https://github.com/xqhare/hermes) - A custom (and quite stupid) IPC Library
-- [Fortuna](https://github.com/xqhare/fortuna) - A custom PRNG (pseudo random number generator)
-- [Tyche](https://github.com/xqhare/tyche) - A custom CSPRNG (cryptographically secure pseudo random number generator)
-- [Talos](https://github.com/xqhare/talos) - A custom TUI library
-- [Athena](https://github.com/xqhare/athena) - A collection of small, but useful code like compression and checksums, as well as home to the all important `XffValue`
 - [Areia](https://github.com/xqhare/areia) - A library like the [Directories](https://crates.io/crates/directories) crate, with the additional support of hiding files
+- [Athena](https://github.com/xqhare/athena) - A collection of small, but useful code like compression and checksums, as well as home to the all important `XffValue`
+- [Fortuna](https://github.com/xqhare/fortuna) - A custom PRNG (pseudo random number generator)
+- [Hades](https://github.com/xqhare/hades) - A library like the [signal-hook](https://crates.io/crates/signal-hook) crate, but a lot simpler
+- [Hermes](https://github.com/xqhare/hermes) - A custom (and quite stupid) IPC Library
+- [Horae](https://github.com/xqhare/horae) - A basic time and date library
+- [Nabu](https://github.com/xqhare/nabu) - Library for reading and writing `.xff` files (My own binary-file specification)
+- [Neith](https://github.com/xqhare/neith) - A database (Old project, not in use and in need of a major rewrite to be useful)
+- [Mawu](https://github.com/xqhare/mawu) - A library for reading and writing `.json` and `.csv` files
+- [Talos](https://github.com/xqhare/talos) - A custom TUI library
+- [Tyche](https://github.com/xqhare/tyche) - A custom CSPRNG (cryptographically secure pseudo random number generator)
 
 ## About me
 - I'm self-taught in Rust and Python, with some classical education in JavaScript and MySQL.
