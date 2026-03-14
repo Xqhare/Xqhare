@@ -87,7 +87,7 @@ Get a glimpse of the projects I've been working on:
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xqhare&repo=nabu&theme=radical)
  
-Nabu us a rust library to interact with .XFF files. .XFF files are my own specification of a JSON like binary data structure capable of storing arbitrary data.
+Nabu is a rust library to interact with .XFF files. .XFF files are my own specification of a JSON like binary data structure capable of storing arbitrary data.
 
 ---
 
