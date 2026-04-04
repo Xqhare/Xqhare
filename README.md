@@ -14,7 +14,7 @@ After dropping out I transitioned to using Python for a few small scripts here a
 In 2020, as the pandemic hit, I found myself with free time on my hands and decided to give programming a real try.
 One of my oldest fascinations was the idea of software that generates a story, like in RimWorld or Dwarf Fortress, so I started the randomiserProject you can find in my repos.
 
-I worked on and off on that project for two to three years until, in 2023, I decided to switch things up. I made the move from windows to linux as my main (and since then really only) operating system.
+I worked on and off on that project for two to three years until, in 2023, I decided to switch things up. I made the move from windows to linux as my main (and since then really only) operating system. First to Pop_OS! and Ubuntu, but now I am just running Debian 13.
 Also, I must admit that I was "converted" to the church of rust by an acquaintance of mine who had evangelised rust to me for a few months.
 
 During that transition I have also picked up neovim as my code editor.
