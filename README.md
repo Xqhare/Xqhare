@@ -150,6 +150,7 @@ My future goals include:
 `libc` is one of the few pieces of software, that is neither a dependency nor part of the environment, but also both at the same time.
 
 "When the user can't understand something, it means it's poorly designed software."
+
 ---
 
 This many people have had the misfortune of visiting this page:
