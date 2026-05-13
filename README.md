@@ -108,9 +108,9 @@ Nabu is a rust library to interact with .XFF files. .XFF files are my own specif
 
 ---
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xqhare&repo=tyche&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xqhare&repo=ananke&theme=radical)
 
-Tyche is a custom CSPRNG (cryptographically secure pseudo random number generator). You always need random data after all.
+Ananke is a terminal todo app for UNIX systems. It serves as an extended usage example and demo for my ecosystem and contains a lot more comments than my other projects.
 
 ---
 
