@@ -1,4 +1,5 @@
 # Xqhare
+
 Hello there, I am Xqhare, a self-taught programmer passionate about systems programming and anything else I can break or learn!
 
 I have been around computers for as long as I can remember. Be it watering the keyboard of the family PC when I was 3, (If plants need it to live, surely so do electronics!), getting my own, several kilos heavy, old IBM laptop with only a floppy drive and running windows 95 a year or so later. One of my core memories is playing around with the settings of the word processor until it was so unrecognisable to no longer be use able at all.
@@ -35,12 +36,12 @@ I know I will not write something better - that is not the point. I do this as a
 Because of this I operate under the `no external dependencies` rule, which means I restrict myself from using any libraries that are not written by me.
 I allow myself full use of rusts standard library - I personally count the [`futures`](https://crates.io/crates/futures) and [`libc`](https://crates.io/crates/libc) crates as part of the standard library; Fight me.
 
-### External dependencies still in use (until I can get rid of them)
+### External Dependencies Still in Use (Until I Can Get Rid of Them)
 
 - [unicode-segmentation](https://crates.io/crates/unicode-segmentation) for string splitting
 - [egui](https://crates.io/crates/egui) for GUI
 
-### Already implemented libraries
+### Already Implemented Libraries
 
 - [Aequa](https://github.com/xqhare/aequa) - Home to the all important `XffValue` - The value my ecosystem is built around
 - [Areia](https://github.com/xqhare/areia) - A library like the [Directories](https://crates.io/crates/directories) crate, with the additional support of hiding files
@@ -55,14 +56,16 @@ I allow myself full use of rusts standard library - I personally count the [`fut
 - [Talos](https://github.com/xqhare/talos) - A custom TUI library; Replacing [ratatui](https://crates.io/crates/ratatui)
 - [Tyche](https://github.com/xqhare/tyche) - A custom CSPRNG (cryptographically secure pseudo random number generator) replacement for [`rand`](https://crates.io/crates/rand)
 
-## About me
+## About Me
+
 - I'm self-taught in Rust and Python, with some classical education in JavaScript and MySQL.
 - I'm a self-taught programmer, always eager to learn.
 - Currently, I'm solving problems only I have and make for myself.
 - I'm creating bugs since first programming an auto-miner, using Lua, in a Minecraft mod called `ComputerCraft` sometime in the early 2010s.
 - I have a small, one server, home-lab to learn a bit of everything.
 
-## 💌 The quote I code by
+## 💌 The Quote I Code By
+
 "You copied that function without understanding why it does what it does, and as a result your code IS GARBAGE. AGAIN."
 ~ Linus Torvalds
 
@@ -126,7 +129,7 @@ Talos is a custom TUI library that I made for fun. It is actually extremely perf
 ---
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xqhare&repo=horae&theme=radical)
 
-Everybody always talks about how hard Time & Date is. I had to find out myself, and yes, they are right.
+Everybody always talks about how hard Time & Date is. I had to find that out myself, and yes, they are right.
 
 ---
 
@@ -141,7 +144,7 @@ I found these, so of course I need to include them:
 My future goals include:
 
 - Continuing to build projects and experiment.
-- Expanding my code base with more libraries, so that I don't need to use any external dependencies. At some point.
+- Expanding my code-base with more libraries, so that I don't need to use any external dependencies. At some point.
 
 ## 🌈 Fun Facts!
 
@@ -150,6 +153,8 @@ My future goals include:
 `libc` is one of the few pieces of software, that is neither a dependency nor part of the environment, but also both at the same time.
 
 "When the user can't understand something, it means it's poorly designed software."
+
+When designing software, always assume the user has found themselves in a brief bit of insanity, paired with general amnesia.
 
 ---
 
