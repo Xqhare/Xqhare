@@ -38,7 +38,6 @@ I allow myself full use of rusts standard library - I personally count the [`fut
 
 ### External Dependencies Still in Use (Until I Can Get Rid of Them)
 
-- [unicode-segmentation](https://crates.io/crates/unicode-segmentation) for string splitting
 - [egui](https://crates.io/crates/egui) for GUI
 
 ### Already Implemented Libraries
@@ -54,6 +53,7 @@ I allow myself full use of rusts standard library - I personally count the [`fut
 - [Neith](https://github.com/xqhare/neith) - A database (Old project, not in use and in need of a major rewrite to be useful)
 - [Mawu](https://github.com/xqhare/mawu) - A library for reading and writing `.json` and `.csv` files
 - [Talos](https://github.com/xqhare/talos) - A custom TUI library; Replacing [ratatui](https://crates.io/crates/ratatui)
+- [Thoth](https://github.com/xqhare/thoth) - My replacement for [unicode-segmentation](https://crates.io/crates/unicode-segmentation). Took 2 years to learn about unicode to write it in a day or so.
 - [Tyche](https://github.com/xqhare/tyche) - A custom CSPRNG (cryptographically secure pseudo random number generator) replacement for [`rand`](https://crates.io/crates/rand)
 
 ## About Me
