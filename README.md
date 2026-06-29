@@ -53,7 +53,7 @@ I allow myself full use of rusts standard library - I personally count the [`fut
 - [Neith](https://github.com/xqhare/neith) - A database (Old project, not in use and in need of a major rewrite to be useful)
 - [Mawu](https://github.com/xqhare/mawu) - A library for reading and writing `.json` and `.csv` files
 - [Talos](https://github.com/xqhare/talos) - A custom TUI library; Replacing [ratatui](https://crates.io/crates/ratatui)
-- [Thoth](https://github.com/xqhare/thoth) - My replacement for [unicode-segmentation](https://crates.io/crates/unicode-segmentation). Took 2 years to learn about unicode to write it in a day or so.
+- [Thoth](https://github.com/xqhare/thoth) - My replacement for [unicode-segmentation](https://crates.io/crates/unicode-segmentation). It took 2 years to learn enough about Unicode to then write it in a day or so (Only supports segmentation into graphemes, and does not support emoji at all for now (Rules `GB9c` through to `GB13` are ignored for those who care)).
 - [Tyche](https://github.com/xqhare/tyche) - A custom CSPRNG (cryptographically secure pseudo random number generator) replacement for [`rand`](https://crates.io/crates/rand)
 
 ## About Me
