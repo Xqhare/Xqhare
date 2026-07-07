@@ -146,15 +146,15 @@ My future goals include:
 - Continuing to build projects and experiment.
 - Expanding my code-base with more libraries, so that I don't need to use any external dependencies. At some point.
 
-## 🌈 Fun Facts!
+## 🌈 Fun Facts by Me!
 
 "What would change if you could only ever create an object once?" - "Nothing for most object-oriented programmers!"
 
 `libc` is one of the few pieces of software, that is neither a dependency nor part of the environment, but also both at the same time.
 
-"When the user can't understand something, it means it's poorly designed software."
-
 When designing software, always assume the user has found themselves in a brief bit of insanity, paired with general amnesia.
+
+FAFO? Why are we talking about a "Fast-Ahead-of-Formation-Optimization" CPU scheduler?
 
 ---
 
