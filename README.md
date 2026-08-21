@@ -31,10 +31,11 @@ From then on, an idea formed in my mind: Why not write it all myself? No better 
 
 This idea has morphed over to years into the goal: to create a fully functional ecosystem of libraries and tools that I can use to build all my other projects.
 
-I know I will not write something better - that is not the point. I do this as a hobby, I want to learn things I don't know.
+I know I will not write something better; that is not the point. I do this as a hobby, I want to learn things I don't know.
 
 Because of this I operate under the `no external dependencies` rule, which means I restrict myself from using any libraries that are not written by me.
-I allow myself full use of rusts standard library - I personally count the [`futures`](https://crates.io/crates/futures) and [`libc`](https://crates.io/crates/libc) crates as part of the standard library; Fight me.
+I only allow myself to use rusts standard library.
+I personally count the [`futures`](https://crates.io/crates/futures) and [`libc`](https://crates.io/crates/libc) crates as part of the standard library; Fight me.
 
 ### External Dependencies Still in Use (Until I Can Get Rid of Them)
 
