@@ -8,20 +8,21 @@ My programming journey started in the early 2010s with the Minecraft mod "Comput
 I spend almost an entire day trying to follow tutorials on how to make a simple auto-miner.
 After some tinkering I still remember the excitement when I finally got it to move, only to realize I had put in two variables the wrong way around and the autominer started digging straight down instead of forwards.
 
-After this I enrolled in the media course in my high-school. During A-levels, out teacher started out with us building webistes using HTML and CSS only, after which he introduced us to JavaScript and MySQL as a database.
+After this I enrolled in the media course in my high-school. During A-levels, our teacher started out with us building webistes using HTML and CSS only, after which he introduced us to JavaScript and MySQL as a database.
 I spend a short time studying IT-Security where I had my first experience with using Linux and writing bash. 
 
 After dropping out I transitioned to using Python for a few small scripts here and there.
 In 2020, as the pandemic hit, I found myself with free time on my hands and decided to give programming a real try.
 One of my oldest fascinations was the idea of software that generates a story, like in RimWorld or Dwarf Fortress, so I started the randomiserProject you can find in my repos.
 
-I worked on and off on that project for two to three years until, in 2023, I decided to switch things up. I made the move from windows to linux as my main (and since then really only) operating system. First to Pop_OS! and Ubuntu, but now I am just running Debian 13.
-Also, I must admit that I was "converted" to the church of rust by an acquaintance of mine who had evangelised rust to me for a few months.
-
-During that transition I have also picked up neovim as my code editor.
+I worked on and off on that project until, in 2022, I decided to switch things up. I made the move from windows to linux as my main (and since then really only) operating system. First to Pop_OS! and Ubuntu, but now I am just running Debian stable everywhere.
 
 In 2026 I made another decision to widen my horizons and bought myself a small ThinkCenter to use as my Home-Lab. So now I also dabble in Networking, Security and IT Operations as well.
 I host my own [blog](https://blog.xqhare.net) and [website](https://xqhare.net), as well as my own private git server and many other things on there!
+
+When I switched to using Linux, I was also "converted" to the church of rust by an acquaintance of mine who had evangelised it to me for a few months.
+
+During that time I also picked up neovim as my code editor.
 
 As I learned rust I felt I was learning the language, while also learning how to use every crate I was relying on.
 
@@ -31,11 +32,12 @@ From then on, an idea formed in my mind: Why not write it all myself? No better 
 
 This idea has morphed over to years into the goal: to create a fully functional ecosystem of libraries and tools that I can use to build all my other projects.
 
-I know I will not write something better; that is not the point. I do this as a hobby, I want to learn things I don't know.
+I know I will not write something better and that is by no means the point.
+I do this as a hobby, I want to learn things I don't know.
 
 Because of this I operate under the `no external dependencies` rule, which means I restrict myself from using any libraries that are not written by me.
 I only allow myself to use rusts standard library.
-I personally count the [`futures`](https://crates.io/crates/futures) and [`libc`](https://crates.io/crates/libc) crates as part of the standard library; Fight me.
+I count the [`futures`](https://crates.io/crates/futures) and [`libc`](https://crates.io/crates/libc) crates as part of the standard library; Fight me.
 
 ### External Dependencies Still in Use (Until I Can Get Rid of Them)
 
